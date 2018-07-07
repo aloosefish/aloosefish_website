@@ -1,2 +1,2 @@
 
-This is the code for my personal website, [aloosefish.com](https://www.aloosefish.com)
+This is the code for my website, [aloosefish.com](https://www.aloosefish.com)
