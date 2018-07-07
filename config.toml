@@ -11,17 +11,17 @@ relativeurls = true
     post = "/:year/:month/:day/:slug/"
 
 [[menu.main]]
-    name = "About"
+    name = "about"
     url = "/about/"
 [[menu.main]]
-    name = "Projects"
+    name = "projects"
     url = "/projects/"
 [[menu.main]]
-    name = "CV"
-    url = "/CV/"
+    name = "cv"
+    url = "/cv/"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Data analysis and exploration by Ian Davis"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
@@ -34,7 +34,5 @@ relativeurls = true
 
     [params.logo]
     url = "logo.png"
-    width = 50
-    height = 50
     alt = "Logo"
 
