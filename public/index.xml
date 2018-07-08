@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>a loose fish</title>
+    <title>aloosefish</title>
     <link>/</link>
-    <description>Recent content on a loose fish</description>
+    <description>Recent content on aloosefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 07 Jul 2018 21:13:14 -0500</lastBuildDate>
@@ -22,14 +22,23 @@ When you click the Knit button a document will be generated that includes both c
     </item>
     
     <item>
+      <title>hello</title>
+      <link>/projects/hello/</link>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hello/</guid>
+      <description>Here are some things I am working on.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>A Fast-Fish belongs to the party fast to it.A Loose-Fish is fair game for anybody who can soonest catch it.But what plays the mischief with this masterly code is the admirable brevity of it, which necessitates a vast volume of commentaries to expound it. 1
-I am a Data Analyst in Portland, OR, USA.
-From Chapter 89 of Moby Dick, by Herman Melville↩</description>
+      <description>A Fast-Fish belongs to the party fast to it.A Loose-Fish is fair game for anybody who can soonest catch it.But what plays the mischief with this masterly code is the admirable brevity of it, which necessitates a vast volume of commentaries to expound it. 1
+From Chapter 89 of Moby Dick, by Herman Melville↩
+</description>
     </item>
     
   </channel>

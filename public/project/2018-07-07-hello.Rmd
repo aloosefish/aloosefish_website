@@ -1,0 +1,17 @@
+---
+title: hello
+author: Ian Davis
+date: '2018-07-07'
+slug: hello
+categories: []
+tags: []
+---
+
++++ 
+draft = true
+date = 2018-07-07T18:16:27-07:00
+title = ""
+slug = "" 
++++
+
+Here are some things I am working on.

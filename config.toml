@@ -1,38 +1,63 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "a loose fish"
-theme = "hugo-lithium"
+title = "aloosefish"
+theme = "hugo-coder"
 googleAnalytics = ""
-disqusShortname = ""
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-relativeurls = true
 
-[permalinks]
-    post = "/:year/:month/:day/:slug/"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+paginate = 20 # Default number of pages per page in pagination.
+canonifyurls = true # Enable to turn relative URLs into absolute.
+
+pygmentsstyle = "b2" # Color-theme or style for syntax highlighting.
+pygmentscodefences = true # Enable code fence background highlighting.
+pygmentscodefencesguesssyntax = true # Enable syntax guessing for code fences without specified language.
+
+disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
+
+[params] # theme parameters
+    author = "Ian Davis" # Author's name.
+    info = "Data Analyst" # Author's job title or info.
+    description = "Data analysis and exploration by Ian Davis" # Site description.
+    keywords = "blog, data, analyst, developer,personal" # Site keywords.
+    #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
+
+    footercontent = "" # Add footer content
+
+    # Whether you want to hide copyright and credits in the footer.
+    hideCredits = false
+    hideCopyright = false
+
+    # Custom CSS
+    custom_css = []
+
+    # RTL support
+    rtl = false
+
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/aloosefish/"
+
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/icampbelldavis/"
+
+# Menu links
 
 [[menu.main]]
-    name = "about"
+    name = "About"
+    weight = 1
     url = "/about/"
 [[menu.main]]
-    name = "projects"
+    name = "Projects"
+    weight = 2
     url = "/projects/"
 [[menu.main]]
-    name = "cv"
-    url = "/cv/"
-
-[params]
-    description = "Data analysis and exploration by Ian Davis"
-
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.11.0"
-    highlightjsCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
-
-    MathJaxCDN = "//cdn.bootcss.com"
-    MathJaxVersion = "2.7.1"
-
-    [params.logo]
-    url = "logo.png"
-    alt = "Logo"
+  name = "CV"
+  weight = 2
+  url = "CV"
+  
 
