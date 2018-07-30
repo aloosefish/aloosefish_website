@@ -6,19 +6,18 @@
     <description>Recent content in Projects on aloosefish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>hello</title>
-      <link>/projects/hello/</link>
-      <pubDate>Sat, 07 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Ideas</title>
+      <link>/projects/ideas/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/projects/hello/</guid>
-      <description>+++draft = truedate = 2018-07-07T18:16:27-07:00title = &amp;quot;&amp;quot;slug = &amp;quot;&amp;quot;+++
-Here are some things I am working on.</description>
+      <guid>/projects/ideas/</guid>
+      <description>Here are some personal projects I am interested in working on, in no particular order:The Weirdest ThingsAnalyze content tags for front-page news stories of major national newspapers to find the most unusual storiesSee how or if the subject matter has changed over a period of several yearsSans SwaggerUse a neural network to create a rap lyric generatorApplications of agent-based modeling in financial portfolio analysisSegregation studyUse US Census data to rate tracts according to levels of ethnic and racial diversityCreate an interactive map to visualize findingsAnalysis of software terms of useAutomated to incorporate textual changes as they are madeAnalysis of minutes of public government meetingsPresenting analysis in a way that allows portions of it to be “plugged-in” to any type of public meeting where minutes are taken</description>
     </item>
     
   </channel>
