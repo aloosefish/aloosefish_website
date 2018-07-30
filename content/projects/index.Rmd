@@ -1,11 +1,15 @@
 ---
-title: hello
+title: projects
 author: Ian Davis
-date: '2018-07-07'
-slug: hello
+slug: ideas
 categories: []
 tags: []
 ---
 
 
-Here are some things I am working on.
+### Here are some personal projects I am interested in working on:
+
+* The Weirdest Thing
+  + Analyzing content tags for front-page news stories from major national newspapers in order to find the most unusual stories.
+* Sans Swagger
+  + Using a <neural network>[link](https://en.wikipedia.org/wiki/Artificial_neural_network) to create a rap lyric generator

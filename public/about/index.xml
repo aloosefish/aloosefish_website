@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on aloosefish</title>
+    <link>/about/</link>
+    <description>Recent content in Abouts on aloosefish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>A Fast-Fish belongs to the party fast to it.A Loose-Fish is fair game for anybody who can soonest catch it.But what plays the mischief with this masterly code is the admirable brevity of it, which necessitates a vast volume of commentaries to expound it. 1
+From Chapter 89 of Moby Dick, by Herman Melville↩
+</description>
+    </item>
+    
+  </channel>
+</rss>

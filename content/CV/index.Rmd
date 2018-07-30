@@ -13,3 +13,24 @@ knitr::opts_chunk$set(echo = TRUE)
 <center> Portland, OR </center>
 <center> ian@aloosefish.com </center>
 
+
+### Summary of Skills
+
+* Inter
+* two
+* three
+
+### Education
+
+* Metropolitan State University of Denver 2005-2009
+* Portland State University, 2017 - present
+
+### Relevant Coursework
+
+### Projects
+
+* 
+
+### Relevant Work Experience
+
+### Other Work Experience
