@@ -1,23 +1,26 @@
 ---
-title: projects
-author: Ian Davis
-slug: ideas
-categories: []
-tags: []
+title: "Ideas"
+output:
+  html_document:
+    code_download: yes
+    code_folding: hide
+    df_print: paged
 ---
 
 
-### Here are some personal projects I am interested in working on, in no particular order:
+###### Here are some personal projects I am interested in working on, in no particular order:
 
-* The Weirdest Thing
-  + Analyzing content tags for front-page news stories of major national newspapers to find the most unusual stories
+* The Weirdest Things
+  + Analyze content tags for front-page news stories of major national newspapers to find the most unusual stories
   + See how or if the subject matter has changed over a period of several years
 * Sans Swagger
-  + Using a <neural network>[link](https://en.wikipedia.org/wiki/Artificial_neural_network) to create a rap lyric generator
+  + Use a [neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) to create a rap lyric generator
+* Applications of agent-based modeling in financial portfolio analysis
 * Segregation study
-  + Using US Census data to rate tracts according to levels of ethnic and racial diversity
+  + Use US Census data to rate tracts according to levels of ethnic and racial diversity
   + Create an interactive map to visualize findings
 * Analysis of software terms of use
   + Automated to incorporate textual changes as they are made
 * Analysis of minutes of public government meetings
-  + Presenting analysis in a way that allows portions of it to be "plugged-in" to any type of public meeting
+  + Presenting analysis in a way that allows portions of it to be "plugged-in" to any type of public meeting where minutes are taken
+  
