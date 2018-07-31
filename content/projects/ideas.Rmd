@@ -1,6 +1,6 @@
 ---
 title: "Ideas"
-date: '2018-07-01'
+date: '2018-07-29'
 output:
   html_document:
     code_download: yes
