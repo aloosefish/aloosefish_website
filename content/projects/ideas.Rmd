@@ -19,9 +19,16 @@ output:
 * Applications of agent-based modeling in financial portfolio analysis
 * Segregation study
   + Use US Census data to rate tracts according to levels of ethnic and racial diversity
+  + As well as incomes, noting in Portland MSA the possible impact of professional athletes' salaries on mean incomes of blacks. Professional sports teams player payrolls are public.
   + Create an interactive map to visualize findings
 * Analysis of software terms of use
   + Automated to incorporate textual changes as they are made
 * Analysis of minutes of public government meetings
   + Presenting analysis in a way that allows portions of it to be "plugged-in" to any type of public meeting where minutes are taken
-  
+* Trump tweet generator
+  + analysis of all Trump tweets
+    + using Twitter API
+  + use a predictive model, based on the headlines on Fox News's website from the previous 24 hours, and check against latest tweets.
+  + Shiny app with button and output textbox (so that the app doesn't need to be running all the time)
+    + display most current tweet along with what the model predicts
+* CLI app for generating random password (using R)
