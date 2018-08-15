@@ -5,4 +5,4 @@ date: "June 12, 2018"
 output: html_document
 ---
 
-<embed src="nbo_hood_report.pdf" width="500" height="375" type='application/pdf'>
+The data for this project, as is typical in geospatial analysis, is both very large (about 1.6 GB) and not freely distributable. Therefore, it is presented as a [pdf]().
