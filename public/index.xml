@@ -23,10 +23,10 @@
     <item>
       <title>Ideas</title>
       <link>/projects/ideas/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>/projects/ideas/</guid>
-      <description>Here are some personal projects I am interested in working on, in no particular order:The Weirdest ThingsAnalyze content tags for front-page news stories of major national newspapers to find the most unusual storiesSee how or if the subject matter has changed over a period of several yearsSans SwaggerUse a neural network to create a rap lyric generatorApplications of agent-based modeling in financial portfolio analysisSegregation studyUse US Census data to rate tracts according to levels of ethnic and racial diversityCreate an interactive map to visualize findingsAnalysis of software terms of useAutomated to incorporate textual changes as they are madeAnalysis of minutes of public government meetingsPresenting analysis in a way that allows portions of it to be “plugged-in” to any type of public meeting where minutes are taken</description>
+      <description>Here are some personal projects I am interested in working on, in no particular order:The Weirdest ThingsAnalyze content tags for front-page news stories of major national newspapers to find the most unusual storiesSee how or if the subject matter has changed over a period of several yearsSans SwaggerUse a neural network to create a rap lyric generatorApplications of agent-based modeling in financial portfolio analysisSegregation studyUse US Census data to rate tracts according to levels of ethnic and racial diversityAs well as incomes, noting in Portland MSA the possible impact of professional athletes’ salaries on mean incomes of blacks.</description>
     </item>
     
     <item>
@@ -46,7 +46,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-      <description>Ian DavisPortland, ORian@aloosefish.comSummary of SkillsIntertwothreeEducationMetropolitan State University of Denver 2005-2009Portland State University, 2017 - presentRelevant CourseworkProjectsRelevant Work ExperienceOther Work Experience</description>
+      <description>Ian DavisPortland, ORian@aloosefish.comSummary of SkillsProficient R, Python, and SQL ProgrammerthreeEducationMetropolitan State University of Denver 2005-2009Portland State University, 2017 - presentRelevant CourseworkProjectsRelevant Work ExperienceOther Work Experience</description>
+    </item>
+    
+    <item>
+      <title>The Best and Worst Neighborhoods in Portland</title>
+      <link>/projects/best_and_worst_pdx/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/best_and_worst_pdx/</guid>
+      <description></description>
     </item>
     
   </channel>

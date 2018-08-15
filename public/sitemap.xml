@@ -9,7 +9,7 @@
   
   <url>
     <loc>/projects/ideas/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,13 +33,17 @@
   
   <url>
     <loc>/projects/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/projects/best_and_worst_pdx/</loc>
   </url>
   
   <url>
