@@ -3,35 +3,74 @@ title: "CV"
 author: "Ian Davis"
 date: "July 20, 2018"
 output: html_document
+      
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<center> Ian Davis </center>
-<center> Portland, OR </center>
-<center> ian@aloosefish.com </center>
+<center>Ian Davis</center>
+<center>Portland, OR</center>
+<center>ian@aloosefish.com</center>
 
 
-### Summary of Skills
+### Skills
 
 * Proficient R, Python, and SQL Programmer
-* 
-* 
-* three
+* Able to ingest, process, analyze, and present data from multiple sources to diverse stakeholders
+* Experience supporting data-intensive applications for a global customer base
+*	Understanding of business accounting practices
+
 
 ### Education
 
-* Metropolitan State University of Denver 2005-2009
 * Portland State University, 2017 - present
+  + Data Analytics, an interdisciplinary program consisting of courses in Quantitative Economics, Applied Statistics, and Data Mining/Modeling
+* Portland Code School (now defunct) 2015
+  + Full-Stack JavaScript Web Development 
+* Metropolitan State University of Denver 2005-2009
+  + Art History
 
-### Relevant Coursework
 
-### Projects
+### Work Experience
 
-* 
+##### Simply Mac
+###### Portland, OR
+10/2016 to 12/2016
 
-### Relevant Work Experience
+Service Technician 
 
-### Other Work Experience
+Repairing, upgrading, and servicing Apple computers and related products. Using open-source and proprietary software diagnostic tools to isolate software and hardware issues. Writing detailed reports as part of the repair escalation process. Teaching one-on-one classes for individuals seeking to optimize their use of Apple products.
+
+*I left this job to attend Portland State University full-time.*
+
+##### Metal Toad (Web and Mobile Development Agency)
+###### Portland, OR
+04/2015 to 06/2015
+
+Developer Intern
+
+Participating in internal and client-facing project planning and status update meetings. Providing Quality-Assurance testing for web-based and mobile applications. Collaborating on proof-of-concept web development projects. Working with developers and consultants to clearly communicate development processes to clients within the arts, entertainment, and logistics industries.
+
+*This was a 2-month internship.*
+
+##### Channelinsight (subsequently acquired by Model N)
+###### Denver, CO			   
+06/2014 to 04/2014
+
+Tier 1 Production Support 
+
+Solving issues of channel sales/inventory data integrity. Making configuration-level changes to user and customer accounts in proprietary channel data management tool. Providing technical support to a global customer base via email. Escalating issues to other support and engineering team members. Creating workflow enhancements and automations. Creating technical documentation.
+
+*I left this job to relocate to Portland for my wife’s job.*
+
+##### ACT Conferencing (subsequently acquired by PGi)
+###### Lakewood, CO                           
+02/2009 to 06/2013
+
+Senior Conference Specialist 
+
+Building, testing, and executing conference calls. Submitting reports on customer complaints/inquiries. Troubleshooting technical issues with service delivery infrastructure including proprietary conference booking system and conference bridges. Product testing.  Producing, recording, and editing broadcast-quality audio.
+
+

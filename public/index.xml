@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>The Best and Worst Neighborhoods in Portland</title>
+      <link>/projects/best_and_worst_pdx/</link>
+      <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/best_and_worst_pdx/</guid>
+      <description>This analysis was done for an assignment in the GEOG488 GIS1 course at Portland State University.The geospatial data used in this project is both very large (about 1.6 GB) and not freely distributable. Therefore the resulting report it is presented as a pdf.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -46,16 +55,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-      <description>Ian DavisPortland, ORian@aloosefish.comSummary of SkillsProficient R, Python, and SQL ProgrammerthreeEducationMetropolitan State University of Denver 2005-2009Portland State University, 2017 - presentRelevant CourseworkProjectsRelevant Work ExperienceOther Work Experience</description>
-    </item>
-    
-    <item>
-      <title>The Best and Worst Neighborhoods in Portland</title>
-      <link>/projects/best_and_worst_pdx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/best_and_worst_pdx/</guid>
-      <description>This analysis was done for an assignment in the GEOG488 GIS1 course at Portland State University.The geospatial data used in this project is both very large (about 1.6 GB) and not freely distributable. Therefore the resulting report it is presented as a pdf.</description>
+      <description>Ian DavisPortland, ORian@aloosefish.comSkillsProficient R, Python, and SQL ProgrammerAble to ingest, process, analyze, and present data from multiple sources to diverse stakeholdersExperience supporting data-intensive applications for a global customer baseUnderstanding of business accounting practicesEducationPortland State University, 2017 - presentData Analytics, an interdisciplinary program consisting of courses in Quantitative Economics, Applied Statistics, and Data Mining/ModelingPortland Code School (now defunct) 2015Full-Stack JavaScript Web DevelopmentMetropolitan State University of Denver 2005-2009Art HistoryWork ExperienceSimply MacPortland, OR10/2016 to 12/2016</description>
     </item>
     
   </channel>
