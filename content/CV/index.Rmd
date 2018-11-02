@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Education
 
 * Portland State University, 2017 - present
-  + Data Analytics, an interdisciplinary program consisting of courses in Quantitative Economics, Applied Statistics, and Data Mining/Modeling
+  + Data Analytics, an interdisciplinary program of courses in Applied Statistics and Data Mining/Modeling
 * Portland Code School (now defunct) 2015
   + Full-Stack JavaScript Web Development 
 * Metropolitan State University of Denver 2005-2009
