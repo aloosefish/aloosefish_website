@@ -12,5 +12,4 @@ output:
 
 > But what plays the mischief with this masterly code is the admirable brevity of it, which necessitates a vast volume of commentaries to expound it. [^1]
 
-
 [^1]:From Chapter 89 of Moby Dick, by Herman Melville
