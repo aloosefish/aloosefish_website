@@ -7,4 +7,4 @@ output:
     df_print: paged
 ---
 
-I am a software developer and student in Portland Oregon. My principal interest is the Salesforce platform as a means of consolidating my technical writing, programming, and business process automation skills.
+I am a software developer and student in Portland, Oregon. My principal interest is solving business problems using the Salesforce platform.
