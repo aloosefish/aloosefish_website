@@ -3,6 +3,7 @@ title: "CV"
 author: "Ian Davis"
 date: "July 20, 2018"
 output: html_document
+        
       
 ---
 
@@ -17,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Skills
 
-* Proficient R, Python, and SQL Programmer
+* Proficient Python, and SQL Programmer
 * Able to ingest, process, analyze, and present data from multiple sources to diverse stakeholders
 * Experience supporting data-intensive applications for a global customer base
 *	Understanding of business accounting practices

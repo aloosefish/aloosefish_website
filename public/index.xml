@@ -44,9 +44,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>A Fast-Fish belongs to the party fast to it.A Loose-Fish is fair game for anybody who can soonest catch it.But what plays the mischief with this masterly code is the admirable brevity of it, which necessitates a vast volume of commentaries to expound it. 1
-From Chapter 89 of Moby Dick, by Herman Melville↩
-</description>
+      <description>I am a software developer and student in Portland Oregon. My principal interest is the Salesforce platform which is the best means of consolidating my technical writing, programming, and business process automation skills.</description>
     </item>
     
     <item>
@@ -55,7 +53,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cv/</guid>
-      <description>Ian DavisPortland, ORian@aloosefish.comSkillsProficient R, Python, and SQL ProgrammerAble to ingest, process, analyze, and present data from multiple sources to diverse stakeholdersExperience supporting data-intensive applications for a global customer baseUnderstanding of business accounting practicesEducationPortland State University, 2017 - 2019Data Analytics, an interdisciplinary program of courses in Applied Statistics and Data Mining/ModelingPortland Code School (now defunct) 2015Full-Stack JavaScript Web DevelopmentMetropolitan State University of Denver 2005-2009Art HistoryWork ExperienceSimply MacPortland, OR10/2016 to 12/2016</description>
+      <description>Ian DavisPortland, ORian@aloosefish.comSkillsProficient Python, and SQL ProgrammerAble to ingest, process, analyze, and present data from multiple sources to diverse stakeholdersExperience supporting data-intensive applications for a global customer baseUnderstanding of business accounting practicesEducationPortland State University, 2017 - 2019Data Analytics, an interdisciplinary program of courses in Applied Statistics and Data Mining/ModelingPortland Code School (now defunct) 2015Full-Stack JavaScript Web DevelopmentMetropolitan State University of Denver 2005-2009Art HistoryWork ExperienceSimply MacPortland, OR10/2016 to 12/2016</description>
+    </item>
+    
+    <item>
+      <title>WR327_Example</title>
+      <link>/projects/wr327_example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/wr327_example/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min.</description>
     </item>
     
   </channel>

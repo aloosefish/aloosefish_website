@@ -17,9 +17,9 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
 
 [params] # theme parameters
     author = "Ian Davis" # Author's name.
-    info = "Data Analyst" # Author's job title or info.
+    info = "Programmer Analyst" # Author's job title or info.
     description = "Data analysis and exploration by Ian Davis" # Site description.
-    keywords = "blog, data, analyst, developer,personal" # Site keywords.
+    keywords = "Salesforce, Admin, Developer" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "" # Add footer content
@@ -44,6 +44,11 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
     name = "LinkedIn"
     weight = 3
     url = "https://www.linkedin.com/in/icampbelldavis/"
+    
+[[params.social]]
+  name = "Trailhead"
+  weight = 2
+  url = "https://trailhead.salesforce.com/me/ianthedavis"
 
 # Menu links
 
