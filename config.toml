@@ -17,16 +17,16 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus
 
 [params] # theme parameters
     author = "Ian Davis" # Author's name.
-    info = "Programmer Analyst" # Author's job title or info.
-    description = "Data analysis and exploration by Ian Davis" # Site description.
+    info = "Salesforce Administrator/Developer" # Author's job title or info.
+    description = "Salesforcing by Ian Davis" # Site description.
     keywords = "Salesforce, Admin, Developer" # Site keywords.
     #avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
-    footercontent = "" # Add footer content
+    footercontent = "© 2019 Ian Davis" # Add footer content
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Custom CSS
     custom_css = []
