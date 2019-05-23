@@ -1,5 +1,6 @@
 ---
 title: "About"
+date: "May 22, 2019"
 output:
   html_document:
     code_download: yes
@@ -7,4 +8,4 @@ output:
     df_print: paged
 ---
 
-I am a software developer and student in Portland, Oregon. My principal interest is solving business problems using the Salesforce platform.
+I am a Salesforce Administrator and Developer in Portland, Oregon. I like automating things so people can spend more time focusing on what really matters.
