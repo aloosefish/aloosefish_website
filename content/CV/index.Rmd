@@ -19,43 +19,51 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Skills
 
 + Certified Salesforce Administrator
-+ Comfortable creating and interacting with Apex, JavaScript, and SQL
++ Adept user of declarative and non-declarative (Python, Apex, SQL) reporting and automation tools
 + Experience supporting data-intensive applications for a global customer base  
 
 #### Education
 
-**Trailhead.Salesforce.com**  
+**Trailhead.Salesforce.com/me/ianthedavis**  
 2019  
-Learned Salesforce Administration and Development by earning 91 course completion badges.
+Learned Salesforce Administration and Development by earning 97 course completion badges.
 
-**DataCamp.com**  
+**DataCamp.com/profile/aloosefish**  
 2018  
 Learned how to analyze data and create reports using Python and R by completing 29 interactive courses. Integrated these skills into college coursework.
 
 **Portland Community College &amp; Portland State University**  
 2017-2019  
-Courses in financial accounting, technical writing, statistics, and Geographical Information Systems (GIS).  
+Courses in financial accounting, technical writing, statistics, and Geographical Information Systems (GIS).
 
-#### Experience
+**Portland Code School**  
+2015  
+Learned how to create and deploy web applications using HTML/CSS, JavaScript (Backbone, Node), MongoDB, Git, and Heroku.
+
+**Metropolitan State University of Denver**  
+2005-2008  
+Art History
+
+#### Work
 
 **Simply Mac** - Portland, OR  
 10/2016 to 12/2016      
 Service Technician  
-Helped people solve hardware and software issues with their Apple devices. I also taught people how to get the most out of their computers in one-on-one lessons.
+Helped people solve hardware and software issues with their Apple devices. I also taught people how to get the most out of their devices in one-on-one lessons.
 
 _Left this job to attend school full-time._
 
 **Metal Toad** (Digital Agency) - Portland, OR  
 04/2015 to 06/2015  
 Developer Intern  
-Provided Quality-Assurance testing for web-based and mobile applications. Collaborated on proof-of-concept web development projects.
+Provided Quality-Assurance testing for web and mobile applications. Collaborated on proof-of-concept web development projects.
 
 _This was a 2-month internship._
 
 **Channelinsight** (subsequently acquired by Model N) **-** Denver, CO  
 06/2014 to 04/2014  
 Tier 1 Production Support  
-Created workflow enhancements and automations that increased the efficiency of the support team. Created a customer-facing FAQ Made configuration changes in proprietary channel data management tool. Provided technical support to a global customer base via email. Escalated issues to other support and engineering team members.
+Created workflow enhancements and automations in ZenDesk CRM that increased the efficiency of the support team. Created a customer-facing FAQ website. Made configuration changes in channel data management tool. Provided technical support to a global customer base. 
 
 _Left this job to relocate to Portland for my wife&#39;s job._
 
@@ -64,5 +72,3 @@ _Left this job to relocate to Portland for my wife&#39;s job._
 02/2009 to 06/2013  
 Senior Conference Specialist  
 Built and tested conference calls. Submitted reports on customer complaints and inquiries. Solved or escalated technical issues. Produced broadcast-quality audio for organizations ranging from small film studios to the White House.
-
-
