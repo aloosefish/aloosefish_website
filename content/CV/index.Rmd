@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 **Trailhead.Salesforce.com/me/ianthedavis**  
 2019  
-Learned Salesforce Administration and Development by earning 97 course completion badges.
+Learned Salesforce Administration and Development by earning 100 course completion badges.
 
 **DataCamp.com/profile/aloosefish**  
 2018  
