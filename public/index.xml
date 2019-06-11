@@ -44,7 +44,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>I am a Salesforce Administrator and Developer in Portland, Oregon. I like automating things so people can spend more time focusing on what really matters.</description>
+      <description>I am a Salesforce Administrator and Developer in Portland, Oregon. I like automating things so businesses can spend more time focusing on what really matters.
+I am also interested in basketball, cycling, literature, and space travel.</description>
     </item>
     
     <item>
@@ -55,7 +56,7 @@
       <guid>/cv/</guid>
       <description>Ian Davisian@aloosefish.comSkillsCertified Salesforce AdministratorAdept user of declarative and non-declarative (Python, Apex, SQL) reporting and automation toolsExperience supporting data-intensive applications for a global customer baseEducationTrailhead.Salesforce.com/me/ianthedavis
 2019
-Learned Salesforce Administration and Development by earning 97 course completion badges.
+Learned Salesforce Administration and Development by earning over 100 course completion badges.
 DataCamp.com/profile/aloosefish
 2018
 Learned how to analyze data and create reports using Python and R by completing 29 interactive courses. Integrated these skills into college coursework.</description>

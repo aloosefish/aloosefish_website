@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "May 22, 2019"
+date: "June 11, 2019"
 output:
   html_document:
     code_download: yes
@@ -8,4 +8,5 @@ output:
     df_print: paged
 ---
 
-I am a Salesforce Administrator and Developer in Portland, Oregon. I like automating things so people can spend more time focusing on what really matters.
+I am a Salesforce Administrator and Developer in Portland, Oregon. I like automating things so businesses can spend more time focusing on what really matters.  
+I am also interested in basketball, cycling, literature, and space travel.
